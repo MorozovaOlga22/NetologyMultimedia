@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+    <string name="start_pause">Start/Pause</string>
+    <string name="song_name">Song name</string>
+    <string name="repeat">Repeat</string>
+    <string name="reverse_order">Reverse order</string>
+</resources>
